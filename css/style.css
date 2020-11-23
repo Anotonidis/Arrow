@@ -243,7 +243,7 @@ a {
 }
 
 .footer-wrapper {
-	width: 1300px;
+	width: 100%;
 	margin: 0 auto;
 	display: flex;
 	justify-content: space-between;
@@ -251,7 +251,7 @@ a {
 
 .footer-list {
 	list-style: none;
-	padding-left: 0;
+	padding-left: 25px;
 	margin-top: 65px;
 }
 
