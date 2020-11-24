@@ -286,19 +286,3 @@ a {
 	opacity: 0.3;		
 }
 
-@media screen and (min-width: 1350px) {
-	.services {		
-		grid-template-columns: repeat(auto-fit, minmax(700px, 1fr));
-		grid-template-rows: repeat(2, 1fr);
-		margin-top: 100px;   
-	}
-}
-
-@media screen and (min-width: 2100px) {
-	.services {
-		
-		grid-template-columns: repeat(auto-fit, minmax(890px, 1fr));
-		grid-template-rows: repeat(2, 1fr);
-		margin-top: 100px;   
-	}
-}
