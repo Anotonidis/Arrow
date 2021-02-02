@@ -445,8 +445,8 @@ a {
 	}
 
 	.services-company_text {
-		width: 94%;
-   	margin-bottom: 100px;
+		width: 76%;
+   	margin: 0 auto;
 		font-size: 16px;
    	line-height: 22px;
 	}
