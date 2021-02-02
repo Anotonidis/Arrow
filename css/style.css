@@ -435,18 +435,15 @@ a {
 	.order {
 		flex-direction: column-reverse;
 	}
-
-	.services-company_text {
-		padding-bottom: 148px;
-	}
-
+	
 	.services_subtitle1 {
 		margin-top: 130px;
 	}
 
 	.services-company_text {
-		width: 76%;
+		width: 77%;
    	margin: 0 auto;
+		padding-bottom: 148px;
 		font-size: 16px;
    	line-height: 22px;
 	}
